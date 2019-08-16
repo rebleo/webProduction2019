@@ -36,20 +36,18 @@ Although you may want your laptop for every class, computers should be closed an
 
 ---
 #### Method of Evaluation:
-1. Regular assignments: Course Blog + Wiki + Code + Technical Exercises (30% of grade) will be executed through the semester by following in class demonstrations, online tutorials and assigned readings. These exercises will be essential for learning markup and coding and to successfully complete more complex projects.
-2. Class Participation (20% of grade): Please arrive to class on time. Please do the assigned readings and come to class prepared to share your reflections - active and informed discussion makes the course more interesting for everyone. Attendance to all classes is required and attendance is taken at each class.
-3. Midterm Project (25% of grade) 
-4. Final Project (25% of grade) due during Final Week of Classes 
+1.  Regular assignments (40% of grade): will be executed through the semester by following in class demonstrations + exercises, online tutorials and assigned readings. These exercises will be essential for learning markup and coding and to successfully complete more complex projects.
 
----
+2. Class Participation (30% of grade): Please arrive to class on time. Please do the assigned readings and come to class prepared to share your reflections - active and informed discussion makes the course more interesting for everyone. Attendance to all classes is required and attendance is taken at each class.
 
-#### Class Blogs:
-
+3. Final Project (30% of grade) due during Final Week of Classes 
 
 ---
 
 #### “Share” (or the class Wiki):
-The class wiki - is where the rest of the syllabus including each day's resources, in-class and take-home assignments will be found. To turn in your homework you must link to it every day using [Markdown](https://www.markdownguide.org/). You are required to post on the wiki. To contribute to the wiki you must set up a [Github](http://www.github.com) account. We will do this in class on the first day.
+The class wiki - is where the rest of the syllabus including each day's resources, in-class and take-home assignments will be found.
+
+To contribute to the wiki you must set up a [Github](http://www.github.com) account. We will do this in class on the first day. To turn in your homework you must link to it every day using [Markdown](https://www.markdownguide.org/). You are required to post on the wiki.
 
 ---
 
