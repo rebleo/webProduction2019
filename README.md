@@ -26,12 +26,13 @@ Although you may want your laptop for every class, computers should be closed an
 ---
 
 #### Expected Learning Outcomes:
-1. Know more about the web’s history as well as current authoring technologies including HTML 5, CSS 6, and EcmaScript 6 (JavaScript)
+1. Know more about the web’s history as well as current front-end authoring technologies including HTML 5, CSS 6, and EcmaScript 6 (JavaScript)
 2. Create media-rich websites with a text editor that uses responsive design to adapt to the browser and device of the user
-3. Learn a bit about our computer’s terminal and using Unix - mimic real-world deployment by running local servers from our own machines using Python’s SimpleHTTPServer
-4. Consistency employ appropriate technical vocabulary, compose pseudocode to think through problems and create site maps and wireframes to map out project development
-5. Apply JavaScript libraries and API’s for web development
-6. Distinguish important characteristics of Internet Art and identify leading practitioners
+3. Using command line tools, students will mimic real-world deployment - running local servers while prototyping their exercises + projects.
+4. Using an SFTP client, access their own server space provided by Film + Media to publish web pages + whole sites on the WWW.
+5. Consistency employ appropriate technical vocabulary, compose pseudocode to think through problems and create site maps and wireframes to map out project development
+6. Apply JavaScript libraries and API’s for web development
+7. Distinguish important characteristics of Internet Art and identify leading practitioners
 
 ---
 #### Method of Evaluation:
