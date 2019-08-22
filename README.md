@@ -1,7 +1,7 @@
 
 ## MEDP 285: Web Production I, Fall 2019
-#### January 25 - May 22 | Film + Media, Hunter College
-#### IMA 75200-01 || Monday 9:00 am - 12:40 pm || North Building 544
+#### August 27 - December 20 | Film + Media, Hunter College
+#### Monday 10:10 am - 1:00 pm || North Building 432
 
 	Professor: Rebecca Leopold
 	Email: rl1697@hunter.cuny.edu
@@ -29,7 +29,7 @@ Although you may want your laptop for every class, computers should be closed an
 1. Know more about the web’s history as well as current front-end authoring technologies including HTML 5, CSS 6, and EcmaScript 6 (JavaScript)
 2. Create media-rich websites with a text editor that uses responsive design to adapt to the browser and device of the user
 3. Using command line tools, students will mimic real-world deployment - running local servers while prototyping their exercises + projects.
-4. Using an SFTP client, access their own server space provided by Film + Media to publish web pages + whole sites on the WWW.
+4. Using an SFTP client, access their own server space provided by Film + Media to publish web pages + whole sites on the world wide web.
 5. Consistency employ appropriate technical vocabulary, compose pseudocode to think through problems and create site maps and wireframes to map out project development
 6. Apply JavaScript libraries and API’s for web development
 7. Distinguish important characteristics of Internet Art and identify leading practitioners
@@ -96,7 +96,7 @@ Subscription to Lynda.com is available through the New York City Library system.
 * CSS Positioning
 
 ---
-###### [Week 4]():
+###### [Week 4](https://github.com/rebleo/webProduction2019/wiki/Week-04):
 * Sitemaps + Wireframes
 * Responsive Web Design
 * CSS Flexbox, Grids + Layouts
