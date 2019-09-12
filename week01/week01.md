@@ -1,7 +1,11 @@
 ##### Week 2 Resources:
 * Unix
+  * [Unix Tutorials](http://www.ee.surrey.ac.uk/Teaching/Unix/)
   * [Unix for Windows](https://www.lemoda.net/windows/windows2unix/windows2unix.html)
 * [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
+* File / URL Paths
+  * [Absolute vs. Relative File Paths](https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/)
+  * [Navigating File Paths w/ Unix](https://swcarpentry.github.io/shell-novice/02-filedir/)
 * HTML
   * [MDN Intro to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
   * [MDN Media Elements in HTL](https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats)
@@ -23,6 +27,9 @@
     * [Menu List](https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XUL/menulist)
     * [Option](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option)
     * [Submit](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/submit)
+	* [MDN - Image Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
+  * [MDN - Video Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
+  * [MDN - Audio Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
   * [Lynda HTML Essential Training](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html):
     1. 4 - Structuring Content
     2. 5 - Creating Links
