@@ -1,0 +1,36 @@
+* [Web Dev Books!!](http://oldobjectsnewideas.com/_reading/_webDevBooks.zip)
+* SFTP Client:
+  * [Cyber Duck](http://www.cyberduck.io)
+* [Lynda HTML Essential Training](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html):
+  1. 4 - Structuring Content
+  2. 5 - Creating Links
+  3. 6 - Creating Lists
+* [Lynda CSS Essential Training](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-1/569190-2.html):
+  1. 1 - Getting Started
+  2. 2 - CSS Core
+  3. 3 - Typography
+#### Intro CSS
+  * [CSS Syntax Validation](https://jigsaw.w3.org/css-validator/#validate_by_uri)
+  * [MDN Intro CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+  * [MDN CSS Syntax](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)
+  * [MDNSimple Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors)
+  * [MDN Nesting Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors)
+  * [MDN Attribute Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Attribute_selectors)
+
+#### CSS Positioning
+* [CSS Border Styles](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style#Values)
+* [CSS Padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding#Syntax)
+* [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+* [MDN Centering an Element](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Center_an_element)
+ * [Intro CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+  * [Simple Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors)
+  * [Nesting Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors)
+  * [Attribute Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Attribute_selectors)
+  * [Psuedo-Classes](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements)
+  * [Size/Length](https://developer.mozilla.org/en-US/docs/Web/CSS/length)
+  * [Styling Boxes](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes)
+  * [CSS Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
+  * [More Floating Elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
+  * [Line Height](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
+* [Collapsing Margins](https://www.sitepoint.com/collapsing-margins/)
+* [Box Model For In-Line Elements](https://hacks.mozilla.org/2015/03/understanding-inline-box-model/)
