@@ -1,18 +1,16 @@
-* [Class Notes + Code](https://github.com/rebleo/emergingMedia2/tree/master/week04)
-* [CSS Border Styles](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style#Values)
+##### HTML 5
+* [Viewport meta tag](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
+
+##### Relative vs. Absolute File Paths
+* https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/
+
+##### CSS Positioning
+* [W3 Centering Elements](https://www.w3.org/Style/Examples/007/center.en.html)
+* [MDN Centering an Element](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Center_an_element)
+* [Viewport Units](https://web-design-weekly.com/2014/11/18/viewport-units-vw-vh-vmin-vmax/)
+
+##### Display - Flex
 * [CSS Padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding#Syntax)
 * [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
-* [MDN Centering an Element](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Center_an_element)
- * [Intro CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
-  * [Simple Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors)
-  * [Nesting Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors)
-  * [Attribute Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Attribute_selectors)
-  * [Psuedo-Classes](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements)
-  * [Size/Length](https://developer.mozilla.org/en-US/docs/Web/CSS/length)
-  * [Styling Boxes](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes)
-  * [CSS Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
-  * [More Floating Elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
-  * [Line Height](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
-* [Collapsing Margins](https://www.sitepoint.com/collapsing-margins/)
-* [Box Model For In-Line Elements](https://hacks.mozilla.org/2015/03/understanding-inline-box-model/)
+
 * [Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools/)

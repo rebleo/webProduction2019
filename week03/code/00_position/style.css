@@ -1,0 +1,16 @@
+/* this is a comment in CSS */
+
+h1 {
+	background: rgb(0,20,220);
+}
+
+body {
+	/* background: rgb(200,150,150); */
+	background-color: rgb(255,192,203);
+}
+
+p {
+	background: rgba(255,255,255);
+	border: 5px solid green;
+
+}
