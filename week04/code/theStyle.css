@@ -1,0 +1,28 @@
+body {
+	background-color: rgba(100,100,100);
+}
+
+.theNav {
+	display:flex;
+	background-color: green;
+	justify-content: space-around;
+	flex-direction: column;
+	padding: 2vw;
+}
+
+.theSpans {
+	background-color: pink;
+	padding: 4vh;
+	border: 2px solid black;
+	margin: 8vh;
+}
+
+.theNav a {
+	color: black;
+	text-decoration: none;
+}
+
+.theNav a:hover {
+	color: yellow;
+	font-size: 40px;
+}
