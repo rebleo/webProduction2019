@@ -1,0 +1,22 @@
+* CSS Flexbox + Grids: 
+  * [MDN Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid)
+  * [MDN Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+  * [CSS Tricks - Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  * [CSS Tricks - Guide to Grids](https://css-tricks.com/snippets/css/complete-guide-grid/)
+  * [960 Grid Systems](https://960.gs/)
+  * [Bootstrap](https://getbootstrap.com/docs/3.4/javascript/)
+  * [FlexBox Builder (!)](https://flexbox.webflow.com/)
+  * [FlexBox Builder Game](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)
+* CSS Misc:
+  * [CSS: Centering Things](https://www.w3.org/Style/Examples/007/center.en.html#block)
+  * [CSS Calc](https://developer.mozilla.org/en-US/docs/Web/CSS/calc)
+  * [CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables)
+  * [CSS Background Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders)
+  * [@fontface](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face)
+  * [Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+* CSS Animation:
+  * [Disney's 12 Principles of Animation](http://oldobjectsnewideas.com/_reading/Disney12Principles.pdf)
+  * [List of Animatable CSS Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
+  * [MDN's Using CSS Animation](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+  * [MDN @keyframes at-rule](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
+  * [Lynda Tutorial CSS Animation](https://www.lynda.com/CSS-tutorials/CSS-Animation/439683-2.html)
