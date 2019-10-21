@@ -1,0 +1,51 @@
+body {
+	font-family: avenir;
+}
+
+.theTransform {
+	display: grid;
+	padding: 3vw;
+	margin: 4vh;
+	border: solid 4px black;
+	transition: background-color 0.3s ease-in-out 0.2s;
+}
+
+/* lines 14 -27 derived from: https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skew */
+div {
+  width: 80px;
+  height: 80px;
+  background-color: yellow;
+	transition: transform 0.3s ease-in-out 0.2s;
+}
+.skewed {
+  transform: skew(10deg) rotate(45deg); /* Equal to skewX(10deg) */
+  background-color: pink;
+}
+.skewed:hover, .theAuthor:focus {
+	background-color: rgba(0,0,200); letter-spacing: 7px; color: black;
+	text-decoration: line-through;
+}
+
+
+/* styling for the "nav bar on the top" */
+
+.idk {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+ /*  background-color: black;*/
+  font-family: Avenir, sans-serif;
+  height: 100px;
+}
+a {
+  font-weight: bold;
+  font-size: 20px;
+  background-color: rgba(100,200,200);
+  color: white;
+  padding: 5px 25px;
+/*	 makes rounded border on rectangle */
+   border-radius: 0px;
+}
+a:hover{
+	color:pink;
+}
