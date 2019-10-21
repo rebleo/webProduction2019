@@ -5,7 +5,7 @@ Create two different layouts using CSS Grid. It may be two separate web pages or
 
 Include text, image and/or video in each page. The layout themselves are entirely up to you - the goal is to use css grid + flex in different formats + learn from one another.
 
-Today: create a wireframe to present your idea + design strategy to the class. Start building your site. 
+Today: create a wireframe to present your idea + design strategy to the class. Start building your site.
 
 For Monday: Get your site running on each of yr servers. Do NOT post yr project site to the class wiki. Be prepared to present your finished sites during critique in class on Monday.
 
