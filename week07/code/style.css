@@ -1,0 +1,21 @@
+body {
+	display: grid;
+	background-color: pink;
+}
+
+
+#mySecondButton{
+	padding: 4vh;
+	background-color: blue;
+	margin: 100px;
+	border-radius: 25px;
+}
+
+#mySecondButton:focus {
+    background: rgb(0,200,0);
+	}
+
+.theBox {
+	background-color: rgba(0,200,0,.5);
+	padding: 3vh;
+}
