@@ -1,0 +1,10 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+ /* don't forget to write yr own styling! */
+body {
+	background-color: pink;
+	font-family: cursive;
+	padding: 3vw;
+}
