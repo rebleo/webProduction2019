@@ -87,55 +87,73 @@ Subscription to Lynda.com is available through the New York City Library system.
 ###### [Week 2](https://github.com/rebleo/webProduction2019/wiki/Week-01):
 * Intro the Terminal + Unix
 * WebDev Workflow: Text Editor, Running a Local Server + Live Editing in the Browser
-* Intro to CSS Styling
+* HTML 5
 
 ---
 ###### [Week 3](https://github.com/rebleo/webProduction2019/wiki/Week-02):
 * Intro to SFTP client + hosting your websites
+* Intro to CSS Styling
 * CSS IDs + Classes
-* CSS Positioning
+
 
 ---
-###### [Week 4](https://github.com/rebleo/webProduction2019/wiki/Week-04):
-* Sitemaps + Wireframes
+###### [Week 4](https://github.com/rebleo/webProduction2019/wiki/Week-03):
+* Semantic HTML5 + Viewport Tag
+* CSS Bos Model + Positioning
+* Web Fonts + Google Fonts
+
+---
+###### [Week 5](https://github.com/rebleo/webProduction2019/wiki/Week-04):
+* Intro to Net Art
 * Responsive Web Design
-* CSS Flexbox, Grids + Layouts
+* Intro to CSS Flex
 
 ---
-###### [Week 5]():
+###### [Week 6](https://github.com/rebleo/webProduction2019/wiki/Week-05):
+* Flex Shrink + Grow
+* Grid Display
+
+---
+###### [Week 7](https://github.com/rebleo/webProduction2019/wiki/Week-06):
 * CSS Animation
 
 ---
-###### [Week 6]():
+###### [Week 8](https://github.com/rebleo/webProduction2019/wiki/Week-07):
+* Intro to JS
 * Intro to Programming w/ p5.js
 * Variables, Operators + Arrays in JavaScript
 
 ---
-###### Week 7:
----
-###### Week 8:
+###### [Week 9](https://github.com/rebleo/webProduction2019/wiki/Week-08):
+* Native JS
+  * variable scope
+	* authoring Functions
+	* event listeners
+* Intro to Libraries w/ p5.js
 
 ---
-###### Week 9:
+###### [Week 10](https://github.com/rebleo/webProduction2019/wiki/Week-09):
+* Intro to Final project
+* JQuery + Bootstrap
 
 ---
-###### Week 10:
+###### [Week 11](https://github.com/rebleo/webProduction2019/wiki/Week-10):
+* Final Project Proposal presentations
+* Objects in JS
 
 ---
-###### Week 11:
+###### [Week 12](https://github.com/rebleo/webProduction2019/wiki/Week-12-,-13-&-14):
+* Final Project User Testing
 
 ---
-###### Week 12:
-
+###### [Week 13](https://github.com/rebleo/webProduction2019/wiki/Week-12-,-13-&-14):
+* Final Project Studio
 ---
-###### Week 13:
-
----
-###### Week 14:
-
----
-###### Week 15:
+###### [Week 14](https://github.com/rebleo/webProduction2019/wiki/Week-12-,-13-&-14):
 * Final Critique
+
+
+
 
 ---
 
