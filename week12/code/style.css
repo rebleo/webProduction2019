@@ -1,0 +1,21 @@
+* {
+  box-sizing: content-box;
+}
+
+ /* don't forget to write yr own styling! */
+body {
+	background-color: pink;
+	padding: 3vw;
+}
+
+
+main {
+	padding: 3vh;
+	margin: 2vw;
+	border-radius: 30px;
+	background-color: pink;
+}
+
+textarea {
+	height: 10vh;
+}
